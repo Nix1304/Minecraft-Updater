@@ -1,0 +1,1 @@
+I's a small code for checking updates in your minecraft mod. I's a analog of system, that uses in 1.8+
